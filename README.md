@@ -17,7 +17,6 @@
 Copy the `project.greenfoot.md` file and rename it to `project.greenfoot`
 
 # ReadMe
-[Markdown basics](https://www.markdownguide.org/getting-started/)
 **Purpose:**
 
 This code was created for Mr.Chan's P5 ICS3U Intro to CS Class as an assignment.
