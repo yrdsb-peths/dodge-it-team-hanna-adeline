@@ -4,7 +4,7 @@ public class Banana extends Actor
 {
     public Banana() {
             setImage("images/bananas.png");
-        }
+    }
 
     public void act()
     {   

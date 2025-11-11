@@ -2,6 +2,10 @@ import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 public class Hero extends Actor
 {
+    public Hero() {
+        setImage("image/ppl3.png");
+    }
+    
     boolean atTop = true;
     
     public void act()
