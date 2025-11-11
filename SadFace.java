@@ -13,7 +13,7 @@ public class SadFace extends Actor
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public SadFace() {
-        setImage(images/smiley3.png);
+        setImage("images/smiley3.png");
     }
     public void act()
     {
