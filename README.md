@@ -23,4 +23,4 @@ This code was created for Mr.Chan's P5 ICS3U Intro to CS Class as an assignment.
 
 **How to Play:**
 
-The user can move the Hero up and down through clicking their mouse. The objective is to avoid crashing into the moving banana. If the hero does crash into the banana, a skull will appear, indicating that the game is over.
+The user can move the Hero up and down through clicking their mouse. The objective is to avoid crashing into the moving apple. If the hero does crash into the apple, a sadface will appear, indicating that the game is over.
