@@ -1,9 +1,9 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-public class Banana extends Actor
+public class Apple extends Actor
 {
-    public Banana() {
-        setImage("images/bananas.png");
+    public Apple() {
+        setImage("images/apple2.png");
     }
 
     public void act()
@@ -11,7 +11,7 @@ public class Banana extends Actor
         move(-9);
         
         if(getX() <= 0) {
-            resetBanana();
+            resetApple();
         }
         
         if(isTouching(Hero.class)){
@@ -22,7 +22,7 @@ public class Banana extends Actor
     }
     
     
-    public void resetBanana() {
+    public void resetApple() {
         int number = Greenfoot.getRandomNumber(2);
         if(number == 0) {
            setLocation(600, 100); 
